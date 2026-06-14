@@ -1,7 +1,7 @@
 # The Runway
 ### A Field Thesis on the Enterprise AI Control Plane
 
-*Dijay Jadiya · Senior Director, Client Leadership & Banking Portfolio Lead · Slalom Canada · 2026*
+*Dijay Jadiya · Client Partner & Banking Portfolio Lead · Slalom Canada · 2026*
 
 ---
 
