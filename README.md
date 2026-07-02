@@ -27,7 +27,6 @@ This is a familiar cycle. In 2012, shadow IT proliferated faster than cloud gove
 |------|--------|-------------|
 | [The Runway](https://dijay.github.io/the-runway-/) | HTML | The Runway — full designed experience |
 | [the-runway.md](./the-runway.md) | Markdown | Plain text version for readability and search |
-| [the-runway.pdf](./the-runway.pdf) | PDF | Download version |
 | [LICENSE.md](./LICENSE.md) | Markdown | CC BY 4.0 — share and adapt with attribution |
 ---
 
